@@ -1,0 +1,1 @@
+Hello. I've been thinking along the lines of your `llorm` repo, and have myself come to the same name. I would love to discuss implementation with you. Take a look here https://github.com/JuggernautLabs/semantic-query, it provides my foundations for my impl of llorm.
